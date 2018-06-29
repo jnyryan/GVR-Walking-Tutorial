@@ -12,6 +12,8 @@ With Google Virtual Reality - We're going to create a scene that we can walk aro
 - Install Unity
 - Install [Google VR SDK](https://developers.google.com/vr/develop/unity/get-started-ios)
 - Create Demo Project to verify it all works
+- Additional setting
+  - Under Resolution and Presentation, uncheck all except ***LAndscape Left***, this fixes a bug in the GVR SDK
 
 ## Learn to walk
 
